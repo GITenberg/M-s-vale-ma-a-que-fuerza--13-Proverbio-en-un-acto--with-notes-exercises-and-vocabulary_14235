@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '37033'
     url: http://www.gutenberg.org/2009/agents/37033
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14235#M-s-vale-ma-a-que-fuerza--13-Proverbio-en-un-acto--with-notes-exercises-and-vocabulary
 gutenberg_issued: '2004-12-02'
 gutenberg_type: Text
 identifiers:
