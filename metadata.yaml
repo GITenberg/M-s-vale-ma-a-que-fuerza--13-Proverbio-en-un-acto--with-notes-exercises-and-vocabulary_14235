@@ -1,0 +1,41 @@
+_repo: M-s-vale-ma-a-que-fuerza--13-Proverbio-en-un-acto--with-notes-exercises-and-vocabulary_14235
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tamayo y Baus, Manuel
+    aliases:
+    - Baus, Manuel Tamayo y
+    - Tal, Fulano de
+    - Baus, Manuel Tomajo
+    birthdate: 1829
+    deathdate: 1898
+    gutenberg_agent_id: '5422'
+    url: http://www.gutenberg.org/2009/agents/5422
+    wikipedia: http://en.wikipedia.org/wiki/Manuel_Tamayo_y_Baus
+  editor:
+    agent_name: Conant, Carlos Everett
+    birthdate: 1870
+    deathdate: 1925
+    gutenberg_agent_id: '37033'
+    url: http://www.gutenberg.org/2009/agents/37033
+description: ''
+gutenberg_issued: '2004-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14235'
+  lccn: '18013978'
+language:
+- en
+- es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish drama'
+title: "Más vale maña que fuerza\r\nProverbio en un acto; with notes, exercises, and\
+  \ vocabulary"
+url: http://www.gutenberg.org/ebooks/14235
